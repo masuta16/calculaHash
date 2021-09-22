@@ -1,4 +1,8 @@
 # calculaHashDadosAbertos
+The same description of this project can be found at:
+
+[https://pypi.org/project/calculaHashDadosAbertos/0.0.5/](https://pypi.org/project/calculaHashDadosAbertos/0.0.5/)
+
 The library can calculate hash files from dados abertos website in MD5 format.
 So far it works with chamber of deputies data.
 Example of PyPI package.
