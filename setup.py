@@ -14,5 +14,5 @@ setup(name='calculaHashDadosAbertos',
     keywords='Pacote',
     description=u'Retorna dados de hash dos ultimos n dias da biblioteca de dados abertos do governo',
     packages=['pacotepypi'],
-    install_requires=['requests'],['pandas'],['datetime'],['json'], ['hashlib'], ['shutil'],)
+    install_requires=['requests','pandas','datetime','json','hashlib', 'shutil'],)
 
