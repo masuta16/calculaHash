@@ -1,5 +1,5 @@
 # calculaHashDadosAbertos
-The library can calculate hash files from dados abertos website
+The library can calculate hash files from dados abertos websitein MD5 format
 Example of PyPI package.
 ## Getting Started
 #### Dependencies
