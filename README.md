@@ -21,7 +21,17 @@ import shutil
 Clone this repo to your local machine using:
 ```
 git clone https://github.com/masuta16/calculaHash.git
+
 ```
+After download the files on directory you need to type to a manual installation
+```
+pip install -e .
+```
+Or using the command 
+```
+pip install calculaHashDadosAbertos==0.0.5
+```
+To an automatic installation
 ## Features
 This function example returns a csv file with HashMD5 from dados abertos website using API v2
 Con3Prop function returns values with 3 input propositions on government and the fourth input is the number of days until today
