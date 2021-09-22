@@ -8,6 +8,7 @@ import hashlib, os, sys
 
 class Con3Prop:
 
+  # import shutil
   #para 3 inputs
   def __init__(self, parametro1, parametro2, parametro3, diasdiff):
     """ parametro = 'PLP''PEC' 'PL', diasdiff= dias de diferença (valor inteiro)"""
@@ -109,6 +110,7 @@ class Con3Prop:
     shutil.rmtree(dir, ignore_errors=True)  
 class Con2Prop:
 
+  # import shutil
   #para 2 inputs
   def __init__(self, parametro1, parametro2, diasdiff):
     """ parametro = 'PLP''PEC' 'PL', diasdiff= dias de diferença (valor inteiro)"""
